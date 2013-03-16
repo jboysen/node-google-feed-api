@@ -4,7 +4,7 @@
   "description": "Interface for the Google Feed API",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -t 5000 -R spec"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,16 @@
     "google",
     "api"
   ],
-  "author": "jboysen"
+  "author": "jboysen",
+  "dependencies": {
+    "request": "2.16.x"
+  },
+  "devDependencies": {
+    "assert": "0.4.x",
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
 }
