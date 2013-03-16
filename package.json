@@ -1,7 +1,7 @@
 {
   "name": "node-google-feed-api",
   "version": "0.0.1",
-  "description": "Interface for the Google Feed API",
+  "description": "interface for the Google Feed API",
   "main": "index.js",
   "scripts": {
     "test": "mocha -t 5000 -R spec"
