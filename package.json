@@ -1,0 +1,20 @@
+{
+  "name": "node-google-feed-api",
+  "version": "0.0.1",
+  "description": "Interface for the Google Feed API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jboysen/node-google-feed-api.git"
+  },
+  "keywords": [
+    "rss",
+    "feed",
+    "google",
+    "api"
+  ],
+  "author": "jboysen"
+}
