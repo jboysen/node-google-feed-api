@@ -1,6 +1,6 @@
 {
-  "name": "node-google-feed-api",
-  "version": "0.0.1",
+  "name": "google-feed-api",
+  "version": "0.0.2",
   "description": "interface for the Google Feed API",
   "main": "index.js",
   "scripts": {
